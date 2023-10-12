@@ -16,4 +16,5 @@ Posteriormente, dada la disparidad de Fraudes a No Fraudes (aproximadamente un )
 
 # Importante
 Existe un proyecto anterior entregado que emplea el mismo dataset. Se observará que la limpieza es similar a aquella realizada por el otro equipo puesto que contribuí activamente en esa parte del proyecto. Similarlmente, haré uso de la librería imbalanced-learn (https://imbalanced-learn.org/stable/), pues la idea de usarla fue aportación mía.
+
 <u>En cuanto al resto del contenido, consiste en ideas originales, las cuales tendrán poca a ninguna semejanza al proyecto paralelo salvo por las ideas arriba mencionadas.<u>
