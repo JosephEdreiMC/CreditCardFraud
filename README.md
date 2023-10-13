@@ -1,3 +1,5 @@
+# Video
+El video presentación puede ser encontrado aquí: https://drive.google.com/file/d/1dxQnlPkiMW8Irmip2oHcveyglzWoY3dx/view?usp=sharing
 # ProyectoBedu
 Credit Card Fraud Transaction Data
 
