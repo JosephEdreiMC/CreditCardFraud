@@ -19,8 +19,11 @@ El modelo empleado fue un random forest, al cual se le varió el número de 'ár
 
 # Resultados
 Basado en las métricas obtenidas, en un data set sin modificaciones, el mejor random forest contiene 100 árboles, en contraste con la densidad de árboles inferiores y superiores.
+
 En el caso de undersampling, los resultados fueron ampliamente mejores en promedio, con tendencia a favorecer al bosque de 50 árboles.
+
 Finalmente, en el caso de oversampling, la sensibilidad fue perfecta para todos los árboles, los cuales se desempeñaron casi homogeneamente.
+
 Como parte de la experimentación, y aprovechando la extradimensionalidad del dataset, se probó a emplear un Support Vector Machine con kernel rbf, el cual se desempeño considerablemente peor que el random forest para el caso del data set original.
 
 # Importante
